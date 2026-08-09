@@ -8,10 +8,13 @@
 <div align="center">
 
 ```math
-E ⟺ Q∼ ("vibe")
-M = t (atomic)
-C = ∗∗i (**args)
+E \Longleftrightarrow Q\!\sim\ \text{("vibe")}
+\qquad
+M = t\ \text{(atomic)}
+\qquad
+C \overset{**}{=} i\ \text{(**args)}
 ```
+
 
 
 <p>
