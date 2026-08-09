@@ -82,15 +82,12 @@ Qti `≡` Qt'b
 <div align="center">
 
 ### 🐆 The Cheetah
+ The Osi model
 </div>
 
 <div align="center">
 
-```math
-Child-friendly OSI model
-
 55 6
-
 \begin{aligned}
 &\mathrm{Fun}\;(\mathrm{charged}) \\[4pt]
 &\qquad {}^{b}e(e)\;\sim \\[4pt]
@@ -98,7 +95,6 @@ Child-friendly OSI model
 \end{aligned}
 
 55-6
-
 \boxed{
 \mathrm{Fun}^{+}
 \;\longrightarrow\;
@@ -106,11 +102,8 @@ Child-friendly OSI model
 \;\longrightarrow\;
 \mathrm{Charm}\langle\;\rangle
 }
-```
 
-The calculation stays.  
-The **compacted cognition** i can Give.
-
+That last one reads almost like a tiny protocol stack.
 > ### **Q? Right this way.** 🐝
 
 
