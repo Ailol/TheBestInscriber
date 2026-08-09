@@ -24,6 +24,10 @@ C &\overset{**}{=} i\ \text{(**args)}
 or simply: <strong>“Squared” :)</strong>
 </p>
 
+```math
+&\equiv
+```
+
 <p>🐝</p>
 
 <p>
