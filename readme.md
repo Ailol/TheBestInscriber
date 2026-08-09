@@ -84,8 +84,10 @@ Qti `≡` Qt'b
 ### 🐆 The Cheetah
 </div>
 
-> **“Ain’t a well-spoken Q? ᵇ ᵇ ”**  
->  **ᵇe(e)** 
+> **“Ain’t a well-spoken Q? ᵇ ᵇ ” **
+>  """Fun is Charged """ 
+>      **ᵇe(e)**
+> """ Charm is <> """
 
 For me, fermionic and "charm particle" is that :)
 
