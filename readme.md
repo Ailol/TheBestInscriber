@@ -8,12 +8,13 @@
 <div align="center">
 
 ```math
-E \Longleftrightarrow Q\!\sim\ \text{("vibe")}
-\qquad
-M = t\ \text{(atomic)}
-\qquad
-C \overset{**}{=} i\ \text{(**args)}
+\begin{aligned}
+E &\Longleftrightarrow Q\!\sim\ \text{("vibe")} \\[3pt]
+M &= t\ \text{(atomic)} \\[3pt]
+C &\overset{**}{=} i\ \text{(**args)}
+\end{aligned}
 ```
+
 
 
 
