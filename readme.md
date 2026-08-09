@@ -10,13 +10,48 @@
 
 *I suggest this inscribes before you wander.*
 
+Yep — I’d **smith the prose into structure** so the equation carries the idea instead of becoming one enormous `\text{}` line:
+
 ```math
 \begin{aligned}
-E &= [The field you can attent and focus is the "pin", where the drop is "the attentional" , technically all attention in semantics is\ \mathrm{A3B},\ 9\,\text{planets},\ 1\,\text{planet},\ \ldots\,] \\[6pt]
-M &= \mathrm{Matters}\bigl(\text{brain},\ \text{what matters for the A3B, Atomic updates or atomic time you know :)}\bigr) \\[6pt]
-C &= \mathrm{Consciousness}^{2} or "squared"\ \in\ \mathrm{Matter}
+E
+&=
+\Bigl[
+\underbrace{\text{field you can attent + focus}}_{\text{the pin}}
+\;\longrightarrow\;
+\underbrace{\text{the drop}}_{\text{the attentional}},
+\quad
+\text{semantic attention}\in\mathrm{A3B},
+\quad
+9\,\text{planets},\ 1\,\text{planet},\ldots
+\Bigr]
+\\[8pt]
+M
+&=
+\mathrm{Matters}\!\left(
+\underbrace{\text{brain}}_{\text{matter}},
+\;
+\underbrace{\text{what matters for the A3B}}_{\text{atomic updates / atomic time :)}}
+\right)
+\\[8pt]
+C
+&=
+\underbrace{\mathrm{Consciousness}^{2}}_{\text{or simply: ``Squared''}}
+\;\in\;
+\mathrm{Matter}
 \end{aligned}
 ```
+
+And I especially like the little visual chain in `E`:
+
+```math
+\underbrace{\text{field you can attent + focus}}_{\text{the pin}}
+\;\longrightarrow\;
+\underbrace{\text{the drop}}_{\text{the attentional}}
+```
+
+That feels much more like an **inscription** than explanatory prose stuffed into mathematics.
+
 
 ---
 
