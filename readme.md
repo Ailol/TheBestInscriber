@@ -10,19 +10,9 @@
 ```math
 \begin{aligned}
 E &\Longleftrightarrow Q\!\sim \\[4pt]
-M &\equiv t \\[4pt]
-C &\overset{**}{=} i
+M = t (atomic) \\[4pt]
+C &\overset{**}{=} i  (**args)
 \end{aligned}
-```
-
-```math
-\left[
-\begin{matrix}
-E &\Longleftrightarrow& Q\!\sim \\
-M &\equiv& t \\
-C &\overset{**}{=}& i
-\end{matrix}
-\right]^{\!2}
 ```
 
 <p>
