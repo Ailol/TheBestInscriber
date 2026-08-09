@@ -1,49 +1,37 @@
-<div align="center">
-
 # 🐝 The Modulum
 
-<sub>FERMIONIC INSCRIBE</sub>
-
-<br>
+### FERMIONIC INSCRIBE
 
 **To secure your bounty after a hefty raid,**
 *I suggest this inscribes before you wander.*
-
-<br>
 
 ---
 
 ### `MODULUM`
 
-```math id="f2c467"
-\mathrm{Qti}\ \equiv\ \mathrm{Qt}\,\unicode{x1F41D}\ :)
+```math
+\mathrm{Qti}\ \equiv\ \mathrm{Qt}
 ```
 
-<br>
+🐝 :)
 
 ### `FERMIONIC INSCRIBE`
 
-```math id="dc9db3"
+```math
 \begin{aligned}
-E &\Longleftrightarrow Q\!\sim\ \text{("vibe")} \\[5pt]
-M &= t\ \text{(atomic)} \\[5pt]
+E &\Longleftrightarrow Q\!\sim\ \text{("vibe")} \\[4pt]
+M &= t\ \text{(atomic)} \\[4pt]
 C &\overset{**}{=} i\ \text{(**args)}
 \end{aligned}
 ```
 
-<br>
-
-```math id="18249c"
-\boxed{\equiv}
+```math
+\equiv
 ```
-
-<br>
 
 **² — seconds; time is in you as well as outside.**
 
 *or simply:* **Squared :)**
-
-<br>
 
 `#333`　`#b33`　`#fff`　`#36c`　`#ae3`
 
@@ -51,10 +39,6 @@ C &\overset{**}{=} i\ \text{(**args)}
 
 ---
 
-<sub>
-Thank you Eric Weinstein and JRE Crew and Elon for the help in 2021<br>
-with Dr. Rhonda and hollybees, as well as David and Jordan Peterson<br>
+Thank you Eric Weinstein and JRE Crew and Elon for the help in 2021
+with Dr. Rhonda and hollybees, as well as David and Jordan Peterson
 and even Botched crew joining in :)
-</sub>
-
-</div>
