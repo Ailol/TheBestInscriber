@@ -70,6 +70,9 @@ That feels much more like an **inscription** than explanatory prose stuffed into
 
 
 Qti `≡` Qt'b
+
+
+Sleep is why the spectrum will never be apart of the Qti^2
     Ti already defines the up in seconds :)
     never in "squared or spectrum".
 
