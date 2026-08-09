@@ -71,10 +71,11 @@ That feels much more like an **inscription** than explanatory prose stuffed into
 _This one is left for you to ingrain yourself, modulum i havent solved semantically, but its the perfect theorem mindset_
 
 Qti `≡` Qt'b
-
-    or
-
-Qti 🔜 Qt'e? Qt˚🐝˖°
+<div align="center">
+    
+### ` Qti 🔜 Qt'e? Qt˚🐝˖° `
+    
+</div>
 
 Sleep is why the spectrum will never be apart of the Qti^2
     Ti already defines the up in seconds :)
