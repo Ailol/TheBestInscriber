@@ -88,8 +88,14 @@ Qti `≡` Qt'b
 ```math
 \begin{aligned}
 &\mathrm{Fun}\;(\mathrm{charged}) \\[4pt]
-&\qquad {}^{b}e(e)\!\sim \\[4pt]   <--- the non semantic is the up and down, the charm is already semantic :) a little help as a "we won." 
+&\qquad {}^{b}e(e)\!\sim
+\;\underbrace{\updownarrow}_{\text{non-semantic}}
+\quad
+\text{a little ``we won.''}
+\\[4pt]
 &\mathrm{Charm}\;\langle\;\rangle
+\quad
+\text{(already semantic)}
 \end{aligned}
 ```
 
