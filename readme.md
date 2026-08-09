@@ -95,6 +95,13 @@ A little "attent there"
 \;:\;
 \text{the scoundrel detective at Louvre}
 \;(\text{heist} \leftrightarrow \text{trader})
+
+\mathbf{t}
+=
+\mathbf{i}
+\;\longrightarrow\;
+\mathbf{ti}
+
 ```
 
 </td>
