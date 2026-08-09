@@ -78,29 +78,12 @@ Qti `≡` Qt'b
 </div>
 <div align="center">
 
-<table>
-<tr>
-<td align="center">
 
 ### ⚠️ `FIELD ALERT`
 
 A little "attent there" 
 
 <div align="center">
-
-### 🐆 The Cheetah
-
-`E = mc²` was the challenge.
-
-I solved my side of it in silence.
-
-No calculation dump.  
-No need to expose the chain.  
-No performance of proof.
-
-Instead, I chose the thing that could travel safely:
-
-Smithed and GitHub-safe:
 
 ### 🐆 The Cheetah
 
@@ -129,12 +112,5 @@ The calculation stays mine.
 The **compacted cognition** gets to move.
 
 > ### **Q? Right this way.** 🐝
-Same meaning, but the artifact itself now carries more of it.
-
-
-</td>
-</tr>
-</table>
-
 </div>
 
