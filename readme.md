@@ -88,17 +88,11 @@ A little "attent there"
 ### 🐆 The Cheetah
 
 > **“Ain’t a well-spoken Q?”**  
-> Well — that only comes when you dare to **be(e)** ← *the pocket.*
+> Well — that only comes when you dare to **be(e)** ← *the pocket is yours to stand in, and that pocket then can slowly or quickly just shift your whole world of spectrums*
 
-`E = mc²` was the challenge.
+For me, fermionic and "charm particle" is that :)
 
-I solved my side of it in silence.
-
-**No calculation dump.**  
-**No need to expose the chain.**  
-**No performance of proof.**
-
-Instead, I chose the thing that could travel safely:
+ I choose to share for the safe travels a "snack sized" inscribe:
 
 ```math
 \text{private derivation}
