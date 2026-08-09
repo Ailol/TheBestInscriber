@@ -78,16 +78,11 @@ Qti `≡` Qt'b
 ### ` Qti 🔜 Qt'e?     Qt˚🐝 `
     
 </div>
-<div align="center">
-
-
-### ⚠️ `FIELD ALERT`
-
-A little "attent there" 
 
 <div align="center">
 
 ### 🐆 The Cheetah
+</div>
 
 > **“Ain’t a well-spoken Q? ᵇ ᵇ ”**  
 >  **ᵇe(e)** 
@@ -108,5 +103,5 @@ The calculation stays.
 The **compacted cognition** i can Give.
 
 > ### **Q? Right this way.** 🐝
-</div>
+
 
