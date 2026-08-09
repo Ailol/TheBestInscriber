@@ -9,9 +9,9 @@ Over time, that has become a word know as "Thunder speech", the dad voice :)
 
 <br>
 
-### `☩ INSCRIBING`
+### ` Smithing the braces of Time and Ingrainment `
 
-*I suggest this inscribes before you wander.*
+*I suggest this inscribibes as they work like a charm, so that we start with proper mainhand,  before you wander.*
 
 Yep — I’d **smith the prose into structure** so the equation carries the idea instead of becoming one enormous `\text{}` line:
 
