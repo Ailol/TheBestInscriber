@@ -10,10 +10,11 @@
 ```math
 \begin{aligned}
 E &\Longleftrightarrow Q\!\sim \\[4pt]
-M = t (atomic) \\[4pt]
-C &\overset{**}{=} i  (**args)
+M &= t \quad \text{(atomic)} \\[4pt]
+C &\overset{**}{=} i \quad \text{(**args)}
 \end{aligned}
 ```
+
 
 <p>
 <strong>² — seconds; time is in you as well as outside.</strong><br>
