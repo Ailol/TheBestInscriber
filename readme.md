@@ -12,8 +12,11 @@
 ```math
 \mathrm{Qti}\ \equiv\ \mathrm{Qt}'🐝 ee
 ```
+# Inscribing
 
-### `FERMIONIC INSCRIBE`
+## The blessed braces of windseekers
+
+### The Evolutional formula
 
 ```math
 \begin{aligned}
