@@ -86,10 +86,16 @@ Qti `≡` Qt'b
 
 A little "attent there" 
 
+<div align="center">
 
-<strong>Q</strong> = <strong>Quorán, the scoundrel detective at louvre(heist and trader)</strong>  
-<strong>t</strong> = <strong>i, ti</strong>  
-<sub>the premium GPU you save for <em>“the chance”</em> :)</sub>
+```math
+\mathbf{Q}
+=
+\mathrm{Quor\acute{a}n}
+\;:\;
+\text{the scoundrel detective at Louvre}
+\;(\text{heist} \leftrightarrow \text{trader})
+```
 
 </td>
 </tr>
