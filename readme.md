@@ -25,7 +25,6 @@ C &\overset{**}{=} i\ \text{(**args)}
 
 *or simply:* **Squared :)**
 
-```
 ```math
 \mathrm{Qti}\ \equiv\ \mathrm{Qt}'🐝 ee
 ```
