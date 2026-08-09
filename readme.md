@@ -6,24 +6,46 @@ To secure your bounty after a hefty raid, i suggest this inscribes before you wa
 > &\equiv
 
 ### Fermionic Inscribe of &\equiv 
+### 🐝 The Modulum
+
+To secure your bounty after a hefty raid, I suggest this inscribes before you wander:
+
+<div align="center">
+
+```math
+\boxed{\mathrm{Qti}\ \equiv\ \mathrm{Qt}}
+```
+
+### 🐝
+
+</div>
+
+---
+
+### Fermionic Inscribe
 
 ```math
 \begin{aligned}
-E &\equal Q\sim \\
-M &\equal t \\
-C &\equal i
+{\color{#b33}E} &\equiv Q\!\sim \\[3pt]
+{\color{#333}M} &\equiv t \\[3pt]
+{\color{#36c}C} &\equiv i
 \end{aligned}
 ```
 
 <div align="center">
 
-### $;\sim; Q t'b ;\longrightarrow; \text{flies}; :)$
+### $\sim\ Qt'b ;\longrightarrow; \text{flies}; :)$
 
-**aaand the $\sim Q t'b$ flies :)**
+**aaand the $\sim Qt'b$ flies :)**
 
-$\boxed{\text{that's you!}}$
+```math
+\boxed{\text{that's you!}}
+```
+
+🐝
 
 </div>
+
 
 ### For The spectrum inscribing for security 
 
