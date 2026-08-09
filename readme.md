@@ -62,10 +62,12 @@ That feels much more like an **inscription** than explanatory prose stuffed into
 ---
 
 
----
-
 <div align="center">
-## ⚔ The pollinator Inscribe
+    
+  ## ⚔ The pollinator Inscribe
+    
+
+
 </div>
 
 
@@ -96,16 +98,4 @@ C^{2}
 \quad\Longleftrightarrow\quad
 \text{but won the fight}\ ;)
 ```
-
-<br>
-
-
-<br>
-
-### `≡`
-
-<br>
-
-**Qt'bee flies :)**
-
 
