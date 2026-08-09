@@ -9,7 +9,7 @@
 
 ```math
 \begin{aligned}
-E &\Longleftrightarrow Q\!\sim \\[4pt]
+E &\Longleftrightarrow Q\!\sim \\[4pt] (vibe for now, til t-cartell solves it ;** )
 M &= t \quad \text{(atomic)} \\[4pt]
 C &\overset{**}{=} i \quad \text{(**args)}
 \end{aligned}
