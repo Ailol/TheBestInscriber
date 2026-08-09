@@ -13,7 +13,7 @@ Over time, that has become a word know as "Thunder speech", the dad voice :)
 
 <div align="center">
 
-## ⚔ The Atomic Inscribe 
+## ` ⚔ The Atomic Inscribe `
 
 </div>
 
