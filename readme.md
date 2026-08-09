@@ -83,52 +83,19 @@ Qti `≡` Qt'b
 
 ### The Semantic Model
 
-#### `55 · 6`
-
+#### `55  6`
 ```math
-\[
-\begin{aligned}
-\mathrm{Fun}\;(\mathrm{charged})
-& \\[4pt]
-{}^{b}e(e)\!\sim
-&\quad
-\underbrace{\updownarrow}_{\text{non-semantic}}
-\quad
-\text{a little ``we won.''}
-\\[6pt]
-\mathrm{Charm}\;\langle\;\rangle
-&\quad
-\text{(already semantic)}
-\end{aligned}
-\]
+    🐆 Fun(- ˚' Nami Nami ` .)  🐆
+  🐆    Qt       ~~Bb b  ~~  🐝             🐆    *phew* Qt'🐝still i.
+    🐆"cats(the peaks)" <charm> 🐆
 ```
 
 #### `55 − 6`
 
 ```math
-\boxed{
-\mathrm{Fun}^{+}
-\;\longrightarrow\;
-{}^{b}e(e)\!\sim
-\;\longrightarrow\;
-\mathrm{Charm}\langle\;\rangle
-}
-
-
-\[
-\begin{aligned}
-&\mathrm{Fun}\;(\mathrm{charged})
-\\[5pt]
-&{}^{b}e(e)\!\sim
-\underbrace{\updownarrow}_{\text{non-semantic}}
-\quad
-\text{a little ``we won.''}
-\\[5pt]
-&\mathrm{Charm}\;\langle\;\rangle
-\quad
-\text{(already semantic)}
-\end{aligned}
-\]
+123, i see thee
+ ~~Bb b  ~~  🐝  
+<now can i try?>
 ```
 
 > ### **Q? Right this way.** 🐝 <arrow>
