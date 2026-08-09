@@ -66,7 +66,7 @@ That feels much more like an **inscription** than explanatory prose stuffed into
 
 <div align="center">
 
-## ` 𝄜 The Ingrainment Inscribe `
+## ` 𝄜 The Compacted Ingrainment inscribe `
 
 </div>
 
@@ -104,8 +104,8 @@ For me, fermionic and "charm particle" is that :)
 \text{shareable artifact}
 ```
 
-The calculation stays mine.  
-The **compacted cognition** gets to move.
+The calculation stays.  
+The **compacted cognition** i can Give.
 
 > ### **Q? Right this way.** 🐝
 </div>
