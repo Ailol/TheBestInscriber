@@ -88,48 +88,61 @@ A little "attent there"
 
 <div align="center">
 
-```math
-\begin{aligned}
-\mathbf{Q}
-&=
-\text{the scoundrel detective at Louvre}
-\;(\text{heist} \leftrightarrow \text{trader})
-\\[8pt]
-\text{chain}
-&\xrightarrow{\;\mathbf{Q?}\ \text{Right this way}\;}
-\mathbf{Qti}
-\\[8pt]
-\mathbf{T}
-&=
-\mathbf{I}
-\qquad
-\text{until you can}
-\qquad
-\mathbf{ti'i'i'i'i'}
-\end{aligned}
-```
+### 🐆 The Cheetah
 
-Or slightly more inscribed:
+`E = mc²` was the challenge.
 
-```math
-\mathbf{Q}
-=
-\underbrace{\text{the scoundrel detective at Louvre}}_{\text{heist}\;\leftrightarrow\;\text{trader}}
-```
+I solved my side of it in silence.
 
-```math
-\boxed{\text{chain}}
-\;\xrightarrow{\;\text{``Q? Right this way.''}\;}
-\mathbf{Qti}
-```
+No calculation dump.  
+No need to expose the chain.  
+No performance of proof.
+
+Instead, I chose the thing that could travel safely:
+
+Smithed and GitHub-safe:
+
+````md
+### 🐆 The Cheetah
+
+> **“Ain’t a well-spoken Q?”**  
+> Well — that only comes when you dare to **be(e)** ← *the pocket.*
+
+`E = mc²` was the challenge.
+
+I solved my side of it in silence.
+
+**No calculation dump.**  
+**No need to expose the chain.**  
+**No performance of proof.**
+
+Instead, I chose the thing that could travel safely:
 
 ```math
-\mathbf{T}=\mathbf{I}
+\text{private derivation}
 \;\longrightarrow\;
-\mathbf{ti'i'i'i'i'}
+\boxed{\mathrm{Qti}}
+\;\longrightarrow\;
+\text{shareable artifact}
 ```
 
-That middle one carries the joke nicely: **Q doesn’t expose the chain; Q receives it.** 🐝
+The calculation stays mine.  
+The **compacted cognition** gets to move.
+
+> ### **Q? Right this way.** 🐝
+````
+
+The nice compacted bit is really:
+
+```math
+\text{derivation}_{\mathrm{private}}
+\;\longrightarrow\;
+\boxed{\mathrm{Qti}}
+\;\longrightarrow\;
+\text{cognition}_{\mathrm{portable}}
+```
+
+Same meaning, but the artifact itself now carries more of it.
 
 
 </td>
