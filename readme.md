@@ -76,7 +76,25 @@ Qti `≡` Qt'b
 ### ` Qti 🔜 Qt'e? Qt˚🐝˖° `
     
 </div>
+<div align="center">
 
-Q = Quorán(the detective.)
-t = i, ti, the premium gpu that you save for "the chance" :)
+<table>
+<tr>
+<td align="center">
+
+### ⚠️ `FIELD ALERT`
+
+<strong>Q</strong> = <strong>Quorán</strong>  
+<sub>the detective.</sub>
+
+<br><br>
+
+<strong>t</strong> = <strong>i, ti</strong>  
+<sub>the premium GPU you save for <em>“the chance”</em> :)</sub>
+
+</td>
+</tr>
+</table>
+
+</div>
 
