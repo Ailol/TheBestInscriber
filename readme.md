@@ -104,9 +104,7 @@ Qti `≡` Qt'b
 \mathrm{Charm}\langle\;\rangle
 }
 ```
-Great example is spelling <arrow> backwards in mind, voice and everywhere to grok away some "automated easiness" as body loves to automate to just "idgaf".
 
-That last one reads almost like a tiny protocol stack.
-> ### **Q? Right this way.** 🐝
+> ### **Q? Right this way.** 🐝 <arrow>
 
-
+spelling then spell it backwards
