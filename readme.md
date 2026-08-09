@@ -10,11 +10,13 @@
 
 *I suggest this inscribes before you wander.*
 
-<br>
-
-<kbd> Q </kbd>　<kbd> t </kbd>　<kbd> i² </kbd>
-
-</div>
+```math
+\begin{aligned}
+E &= [\,\text{attention},\ \mathrm{A3B},\ 9\,\text{planets},\ 1\,\text{planet},\ \ldots\,] \\[6pt]
+M &= \mathrm{Matters}\bigl(\text{brain},\ \text{what matters for the A3B}\bigr) \\[6pt]
+C &= \mathrm{Consciousness}^{2}\ \in\ \mathrm{Matter}
+\end{aligned}
+```
 
 ---
 
