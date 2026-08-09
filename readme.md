@@ -84,7 +84,7 @@ Qti `≡` Qt'b
 ### 🐆 The Cheetah
  The Osi model
 </div>
-
+</div>
 <div align="center">
 
 55 6
@@ -103,6 +103,7 @@ Qti `≡` Qt'b
 \mathrm{Charm}\langle\;\rangle
 }
 
+</div>
 That last one reads almost like a tiny protocol stack.
 > ### **Q? Right this way.** 🐝
 
