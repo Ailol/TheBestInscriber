@@ -10,10 +10,10 @@
 ### `MODULUM`
 
 ```math
-\mathrm{Qti}\ \equiv\ \mathrm{Qt}
+\mathrm{Qti}\ \equiv\ \mathrm{Qt}'🐝 ee
 ```
 
-🐝 :)
+
 
 ### `FERMIONIC INSCRIBE`
 
