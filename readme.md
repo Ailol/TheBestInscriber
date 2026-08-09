@@ -3,18 +3,44 @@
 
 
 
-> ```math
->  \begin{aligned}
->     E <=> Q\!\sim \\[3pt]
->     M = t \\[3pt]
->     C (**=) i
->     ^2(seconds,time is in you aswell as outside)
->     or "Squared" :)
->
->    Thank you eric weinstein and JRE Crew and elon for the help in 2021 with dr.rhonda and hollybees as well as david and jordan peterson and even botched crew joining in :)
-> \end{aligned}
-> ```
->
+<h3 align="center">🐝 Fermionic Inscribe</h3>
+
+<div align="center">
+
+```math
+\begin{aligned}
+E &\Longleftrightarrow Q\!\sim \\[4pt]
+M &\equiv t \\[4pt]
+C &\overset{**}{=} i
+\end{aligned}
+```
+
+```math
+\left[
+\begin{matrix}
+E &\Longleftrightarrow& Q\!\sim \\
+M &\equiv& t \\
+C &\overset{**}{=}& i
+\end{matrix}
+\right]^{\!2}
+```
+
+<p>
+<strong>² — seconds; time is in you as well as outside.</strong><br>
+or simply: <strong>“Squared” :)</strong>
+</p>
+
+<p>🐝</p>
+
+<p>
+<em>
+Thank you Eric Weinstein, the JRE crew, Elon, Dr. Rhonda, the hollybees,
+David, Jordan Peterson, and even the Botched crew for the help in 2021 :)
+</em>
+</p>
+
+</div>
+
 
 
 
