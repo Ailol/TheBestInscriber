@@ -112,23 +112,6 @@ Qti `≡` Qt'b
 ```
 
 > ### **Q? Right this way.** 🐝 <arrow>
-<div align="center">
-
-<img
-  width="50"
-  alt="The tickle is always inviting, thats the dark the scale is your age"
-  src="https://github.com/user-attachments/assets/064982df-ed2f-4840-970e-14e208772516"
-/>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<img
-  width="220"
-  alt="The p3's, the ones that monitor and creat spikspoks _)"
-  src="https://github.com/user-attachments/assets/1c19816c-0ca7-48c0-aa07-f761d77dfeae"
-/>
-
-</div>
 
 for the depth knights, there is a way.
 
