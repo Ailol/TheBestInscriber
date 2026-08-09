@@ -1,11 +1,17 @@
 
-### Fermionic Inscribe 
+### The modulum
+
+To secure your bounty after a hefty raid, i suggest this inscribes before you wander 
+
+> &\equiv
+
+### Fermionic Inscribe of &\equiv 
 
 ```math
 \begin{aligned}
-E &\equiv Q\sim \\
-M &\equiv t \\
-C &\equiv i
+E &\equal Q\sim \\
+M &\equal t \\
+C &\equal i
 \end{aligned}
 ```
 
