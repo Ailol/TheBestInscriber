@@ -129,3 +129,8 @@ Qti `≡` Qt'b
 />
 
 </div>
+
+for the depth knights, there is a way.
+
+**_smithen by me, respect the water you drink when it soothes and makes you glad <sub>[reinvgorated by the solving the thunderfury.](https://github.com/Ailol/Thedepth)</sub>** 
+
