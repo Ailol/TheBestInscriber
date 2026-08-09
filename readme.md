@@ -82,7 +82,7 @@ Qti `≡` Qt'b
 ## 🐆 The Cheetah
 
 ### The Semantic Model
-
+<div align ="center">
 #### `55  6`
 ```code
     🐆 Fun(- ˚' Nami Nami ` .)  🐆
@@ -97,6 +97,7 @@ Qti `≡` Qt'b
  ~~Bb b  ~~  🐝  
 <now can i try?>
 ```
+</div>
 
 > ### **Q? Right this way.** 🐝 <arrow>
 
