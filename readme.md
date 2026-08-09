@@ -84,11 +84,10 @@ Qti `≡` Qt'b
 
 ### ⚠️ `FIELD ALERT`
 
-<strong>Q</strong> = <strong>Quorán</strong>  
-<sub>the detective.</sub>
+A little "attent there" 
 
-<br><br>
 
+<strong>Q</strong> = <strong>Quorán, the scoundrel detective at louvre(heist and trader)</strong>  
 <strong>t</strong> = <strong>i, ti</strong>  
 <sub>the premium GPU you save for <em>“the chance”</em> :)</sub>
 
