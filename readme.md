@@ -166,14 +166,12 @@ C &\overset{**}{=} i\ \text{(**args)}
 </div>
 
 ```math
-\mathrm{Qti}\ \equiv\ \mathrm{Qt}'
+\mathrm{Qti}\ \equiv\ \mathrm{Qt}'🐝 *ee*
 ```
 
 <div align="center">
 
-### 🐝 *ee*
-
-<sub>MODULUM</sub>
+### 
 
 </div>
 
