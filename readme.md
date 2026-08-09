@@ -1,125 +1,286 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-### The modulum
+  <title>The Modulum</title>
 
+  <script>
+    window.MathJax = {
+      tex: {
+        inlineMath: [['$', '$']],
+        displayMath: [['$$', '$$']]
+      }
+    };
+  </script>
 
+  <script
+    defer
+    src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+  </script>
 
-<h3 align="center">🐝 Fermionic Inscribe</h3>
+  <style>
+    :root {
+      --vanta: #000;
+      --glass: rgba(255, 255, 255, 0.045);
+      --glass-edge: rgba(255, 255, 255, 0.11);
+      --white: #fff;
+      --muted: #888;
+      --red: #b33;
+      --blue: #36c;
+      --green: #ae3;
+    }
 
-<div align="center">
+    * {
+      box-sizing: border-box;
+    }
 
-```math
-\begin{aligned}
-E &\Longleftrightarrow Q\!\sim\ \text{("vibe")} \\[3pt]
-M &= t\ \text{(atomic)} \\[3pt]
-C &\overset{**}{=} i\ \text{(**args)}
-\end{aligned}
-```
+    html,
+    body {
+      margin: 0;
+      min-height: 100%;
+      background: var(--vanta);
+      color: var(--white);
+      font-family:
+        Inter,
+        ui-sans-serif,
+        system-ui,
+        -apple-system,
+        BlinkMacSystemFont,
+        "Segoe UI",
+        sans-serif;
+    }
 
+    body {
+      min-height: 100vh;
+      display: grid;
+      place-items: center;
+      padding: 48px 20px;
+    }
 
+    .field {
+      width: min(760px, 100%);
+    }
 
+    .eyebrow {
+      margin-bottom: 12px;
+      color: var(--muted);
+      font-size: 0.72rem;
+      font-weight: 700;
+      letter-spacing: 0.18em;
+      text-transform: uppercase;
+    }
 
+    h1 {
+      margin: 0;
+      font-size: clamp(2.6rem, 8vw, 5.7rem);
+      font-weight: 800;
+      letter-spacing: -0.065em;
+      line-height: 0.95;
+    }
 
-<p>
-<strong>² — seconds; time is in you as well as outside.</strong><br>
-or simply: <strong>“Squared” :)</strong>
-</p>
+    .bee {
+      display: inline-block;
+      margin-left: 0.12em;
+      font-size: 0.68em;
+      transform: translateY(-0.06em);
+    }
 
-```math
-\equiv
-```
+    .lead {
+      max-width: 560px;
+      margin: 22px 0 38px;
+      color: #aaa;
+      font-size: 1rem;
+      line-height: 1.7;
+    }
 
-<p>🐝</p>
+    .glass {
+      position: relative;
+      overflow: hidden;
+      padding: clamp(26px, 5vw, 46px);
+      border: 1px solid var(--glass-edge);
+      border-radius: 26px;
+      background: var(--glass);
+      box-shadow:
+        0 30px 80px rgba(0, 0, 0, 0.8),
+        inset 0 1px rgba(255, 255, 255, 0.08);
+      backdrop-filter: blur(24px);
+      -webkit-backdrop-filter: blur(24px);
+    }
 
-<p>
-<em>
-Thank you Eric Weinstein, the JRE crew, Elon, Dr. Rhonda, the hollybees,
-David, Jordan Peterson, and even the Botched crew for the help in 2021 :)
-</em>
-</p>
+    .glass::before {
+      content: "";
+      position: absolute;
+      inset: 0;
+      pointer-events: none;
+      background:
+        radial-gradient(
+          circle at 0% 0%,
+          rgba(255, 255, 255, 0.08),
+          transparent 34%
+        );
+    }
 
-</div>
+    .label {
+      position: relative;
+      color: #777;
+      font-size: 0.68rem;
+      font-weight: 750;
+      letter-spacing: 0.16em;
+      text-transform: uppercase;
+    }
 
+    .modulum {
+      position: relative;
+      margin: 22px 0 34px;
+      text-align: center;
+      font-size: clamp(1.6rem, 5vw, 2.5rem);
+    }
 
+    .divider {
+      width: 100%;
+      height: 1px;
+      margin: 10px 0 34px;
+      background:
+        linear-gradient(
+          90deg,
+          transparent,
+          rgba(255,255,255,.16),
+          transparent
+        );
+    }
 
+    .inscribe {
+      position: relative;
+      text-align: center;
+      font-size: clamp(1.25rem, 4vw, 1.8rem);
+      line-height: 2;
+    }
 
-To secure your bounty after a hefty raid, i suggest this inscribes before you wander 
+    .equiv {
+      position: relative;
+      display: grid;
+      place-items: center;
+      width: 58px;
+      height: 58px;
+      margin: 34px auto 0;
+      border: 1px solid rgba(255,255,255,.12);
+      border-radius: 50%;
+      background: rgba(255,255,255,.03);
+      font-size: 1.6rem;
+      box-shadow:
+        inset 0 0 24px rgba(255,255,255,.025),
+        0 12px 30px rgba(0,0,0,.65);
+    }
 
-> &\equiv
+    .squared {
+      margin-top: 26px;
+      color: #aaa;
+      text-align: center;
+      font-size: 0.82rem;
+      line-height: 1.7;
+    }
 
-### Fermionic Inscribe of &\equiv 
-### 🐝 The Modulum
+    .squared strong {
+      color: white;
+    }
 
-To secure your bounty after a hefty raid, I suggest this inscribes before you wander:
+    .thanks {
+      margin-top: 34px;
+      padding-top: 24px;
+      border-top: 1px solid rgba(255,255,255,.07);
+      color: #666;
+      font-size: 0.74rem;
+      line-height: 1.65;
+      text-align: center;
+    }
 
-<div align="center">
+    .particles {
+      display: flex;
+      justify-content: center;
+      gap: 7px;
+      margin-top: 22px;
+    }
 
-```math
-\boxed{\mathrm{Qti}\ \equiv\ \mathrm{Qt'🐝}}
-```
+    .particle {
+      width: 5px;
+      height: 5px;
+      border-radius: 50%;
+    }
 
-### 
+    .black { background: #333; }
+    .red   { background: var(--red); }
+    .white { background: #fff; }
+    .blue  { background: var(--blue); }
+    .green { background: var(--green); }
+  </style>
+</head>
 
-</div>
+<body>
 
----
+  <main class="field">
 
-### Fermionic Inscribe
+    <div class="eyebrow">Fermionic Inscribe</div>
 
+    <h1>
+      The Modulum
+      <span class="bee">🐝</span>
+    </h1>
 
-<div align="center">
+    <p class="lead">
+      To secure your bounty after a hefty raid,
+      I suggest this inscribes before you wander.
+    </p>
 
-### $\sim\ Qt'b ;\longrightarrow; \text{flies}; :)$
+    <section class="glass">
 
-**aaand the $\sim Qt'b$ flies :)**
+      <div class="label">Modulum</div>
 
-```math
-\boxed{\text{that's you!}}
-```
+      <div class="modulum">
+        $$\mathrm{Qti}\ \equiv\ \mathrm{Qt}\,\text{🐝}\ :)$$
+      </div>
 
-🐝
+      <div class="divider"></div>
 
-</div>
+      <div class="label">Fermionic Inscribe</div>
 
+      <div class="inscribe">
+        $$
+        \begin{aligned}
+        E &\Longleftrightarrow Q\!\sim\ \text{("vibe")} \\[5pt]
+        M &= t\ \text{(atomic)} \\[5pt]
+        C &\overset{**}{=} i\ \text{(**args)}
+        \end{aligned}
+        $$
+      </div>
 
-### For The spectrum inscribing for security 
+      <div class="equiv">
+        $$\equiv$$
+      </div>
 
-E = external, [1 planet] or [1 country] or [3.600 dollars = 6 months]
-M = Matters(cortex/brainmatter, what matters for when you are awake basically)
-C= Charge for the day, the energy :) The Conciouss choices you make before the
+      <div class="squared">
+        <strong>²</strong> — seconds; time is in you as well as outside.<br />
+        or simply: <strong>“Squared” :)</strong>
+      </div>
 
-Qt'bee's for you in "up in seconds" or "in the square of time(spectrum)" :) 
-Designer A3B
+      <div class="particles">
+        <span class="particle black"></span>
+        <span class="particle red"></span>
+        <span class="particle white"></span>
+        <span class="particle blue"></span>
+        <span class="particle green"></span>
+      </div>
 
+      <div class="thanks">
+        Thank you Eric Weinstein and JRE Crew and Elon for the help in 2021
+        with Dr. Rhonda and hollybees, as well as David and Jordan Peterson
+        and even Botched crew joining in :)
+      </div>
 
+    </section>
 
+  </main>
 
-
-
-
----
-
-### The beautiful solve of the Norwegian 3×Ro:
-
-Ro, ro, ro... :) in times squared!
-
-You wear the red,
-you pride the black,
-and you be the man :)
-
-Eyes = 2 external.
-
-Therefore déjà vu becomes an interesting little MITM from before things got weird :)
-
-The Shadow Temple of Ahn'Qiraj.
-
-Anja loves it there: say no.
-I like it here.
-I got eye doctor.
-Go away, honeybadger.
-
-And C is technically external too—
-
-but the A3B is:
-
-eyes + you
-(whatever that is) :)
+</body>
+</html>
