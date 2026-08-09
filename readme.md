@@ -66,9 +66,7 @@ That feels much more like an **inscription** than explanatory prose stuffed into
 
 <div align="center">
 
-## ⚔ The Raider's Formula
-
-<sub>WHEN THE FIELD AND THE FIGHT DISAGREE</sub>
+## ⚔ The pollinator Inscribe
 
 </div>
 
@@ -83,11 +81,6 @@ That feels much more like an **inscription** than explanatory prose stuffed into
 }
 ```
 
-<div align="center">
-
-<sub>OR, A LITTLE MORE INSCRIBED</sub>
-
-</div>
 
 ```math
 C^{2}
