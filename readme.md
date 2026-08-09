@@ -27,6 +27,7 @@ C &\overset{**}{=} i\ \text{(**args)}
 
 *or simply:* **Squared :)**
 
+---
 
 ### The raiders formula
 
