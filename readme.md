@@ -12,7 +12,7 @@
 
 ```math
 \begin{aligned}
-E &= [\,\text{attention},\ \mathrm{A3B},\ 9\,\text{planets},\ 1\,\text{planet},\ \ldots\,] \\[6pt]
+E &= [The field you can attent and focus is the "pin", where the drop is "the attentional" , technically all attention in semantics is\ \mathrm{A3B},\ 9\,\text{planets},\ 1\,\text{planet},\ \ldots\,] \\[6pt]
 M &= \mathrm{Matters}\bigl(\text{brain},\ \text{what matters for the A3B, Atomic updates or atomic time you know :)}\bigr) \\[6pt]
 C &= \mathrm{Consciousness}^{2} or "squared"\ \in\ \mathrm{Matter}
 \end{aligned}
