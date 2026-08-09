@@ -13,10 +13,10 @@ To secure your bounty after a hefty raid, I suggest this inscribes before you wa
 <div align="center">
 
 ```math
-\boxed{\mathrm{Qti}\ \equiv\ \mathrm{Qt}}
+\boxed{\mathrm{Qti}\ \equiv\ \mathrm{Qt'🐝}}
 ```
 
-### 🐝
+### 
 
 </div>
 
@@ -26,9 +26,9 @@ To secure your bounty after a hefty raid, I suggest this inscribes before you wa
 
 ```math
 \begin{aligned}
-{\color{#b33}E} &\equiv Q\!\sim \\[3pt]
-{\color{#333}M} &\equiv t \\[3pt]
-{\color{#36c}C} &\equiv i
+E &\equiv Q\!\sim \\[3pt]
+M &\equiv t \\[3pt]
+C &\equiv i
 \end{aligned}
 ```
 
