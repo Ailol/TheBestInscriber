@@ -65,10 +65,14 @@ That feels much more like an **inscription** than explanatory prose stuffed into
 ---
 
 <div align="center">
-
 ## ⚔ The pollinator Inscribe
-
 </div>
+
+
+Qti `≡` Qt'b
+    Ti already defines the up in seconds :)
+    never in "squared or spectrum".
+
 
 ```math
 \boxed{
@@ -92,13 +96,6 @@ C^{2}
 
 <br>
 
-<div align="center">
-
-<table>
-<tr>
-<td align="center">
-
-<sub>THE MODULUM</sub>
 
 <br>
 
