@@ -79,22 +79,23 @@ Qti `≡` Qt'b
     
 </div>
 
-<div align="center">
-
 ### 🐆 The Cheetah
- The Osi model
-</div>
-</div>
-<div align="center">
 
-55 6
+## The OSI Model
+
+### `55 · 6`
+
+```math
 \begin{aligned}
 &\mathrm{Fun}\;(\mathrm{charged}) \\[4pt]
-&\qquad {}^{b}e(e)\;\sim \\[4pt]
+&\qquad {}^{b}e(e)\!\sim \\[4pt]
 &\mathrm{Charm}\;\langle\;\rangle
 \end{aligned}
+```
 
-55-6
+### `55 − 6`
+
+```math
 \boxed{
 \mathrm{Fun}^{+}
 \;\longrightarrow\;
@@ -102,8 +103,7 @@ Qti `≡` Qt'b
 \;\longrightarrow\;
 \mathrm{Charm}\langle\;\rangle
 }
-
-</div>
+```
 That last one reads almost like a tiny protocol stack.
 > ### **Q? Right this way.** 🐝
 
