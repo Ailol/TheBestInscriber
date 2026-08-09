@@ -9,7 +9,7 @@
 
 ```math
 \begin{aligned}
-E &\Longleftrightarrow Q\!\sim \\[-1pt] &\qquad \text{\small("vibe")} \\[4pt]
+E &\Longleftrightarrow Q\!\sim \\[-1pt] \text{\small("vibe")} \\[4pt]
 M &= t \quad \text{(atomic)} \\[4pt]
 C &\overset{**}{=} i \quad \text{(**args)}
 \end{aligned}
