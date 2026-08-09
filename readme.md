@@ -25,7 +25,7 @@ or simply: <strong>“Squared” :)</strong>
 </p>
 
 ```math
-\&\equiv
+\equiv
 ```
 
 <p>🐝</p>
