@@ -11,9 +11,13 @@ Over time, that has become a word know as "Thunder speech", the dad voice :)
 
 ### ` Smithing the braces of Time and Ingrainment `
 
-*I suggest this inscribibes as they work like a charm, so that we start with proper mainhand,  before you wander.*
+<div align="center">
 
-Yep — I’d **smith the prose into structure** so the equation carries the idea instead of becoming one enormous `\text{}` line:
+## ⚔ The Atomic Inscribe 
+
+</div>
+
+*before you wander, they forgot to inscribe the biological security after the 1940's AQ raid*
 
 ```math
 \begin{aligned}
