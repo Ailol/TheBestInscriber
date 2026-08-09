@@ -95,7 +95,7 @@ A little "attent there"
 \;:\;
 \text{the scoundrel detective at Louvre}
 \;(\text{heist} \leftrightarrow \text{trader})
-
+<br>
 \mathbf{t}
 =
 \mathbf{i}
