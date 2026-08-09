@@ -79,11 +79,11 @@ Qti `≡` Qt'b
     
 </div>
 
-### 🐆 The Cheetah
+## 🐆 The Cheetah
 
-## The OSI Model
+### The OSI Model
 
-### `55 · 6`
+#### `55 · 6`
 
 ```math
 \begin{aligned}
@@ -93,7 +93,7 @@ Qti `≡` Qt'b
 \end{aligned}
 ```
 
-### `55 − 6`
+#### `55 − 6`
 
 ```math
 \boxed{
@@ -104,6 +104,8 @@ Qti `≡` Qt'b
 \mathrm{Charm}\langle\;\rangle
 }
 ```
+Great example is spelling <arrow> backwards in mind, voice and everywhere to grok away some "automated easiness" as body loves to automate to just "idgaf".
+
 That last one reads almost like a tiny protocol stack.
 > ### **Q? Right this way.** 🐝
 
