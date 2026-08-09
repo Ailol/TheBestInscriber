@@ -22,10 +22,27 @@ E=mc^2 - you already are chained to say up in seconds or squared
 #### "Fysicsz"
   Squared
 
-After we realized that in t-spectrum, he went his way as i said "fermions!! CHARM PARTICLE!! BIOLOGY! he said "say no more" " and we parted ways, they raiding biology, i raided physics :)
+<br><br>
 
+<strong>I therefore present my find in biology,</strong><br>
+which is also physics —
 
-I present therefore my find in biology, which also is physics, as physics is the representable or produce that your signals yield in you.
+<br><br>
+
+<em>
+as physics is the representable,<br>
+the produce that your signals yield in you.
+</em>
+
+<br><br>
+
+🐝
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ```math
 \begin{aligned}
