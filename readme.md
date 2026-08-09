@@ -77,28 +77,6 @@ Qti `≡` Qt'b
     
 </div>
 
-Sleep is why the spectrum will never be apart of the Qti^2
-    Ti already defines the up in seconds :)
-    never in "squared or spectrum".
-
-
-```math
-\boxed{
-\mathrm{Squared}
-\;\Longrightarrow\;
-\bigl(\text{lost the war}\bigr)
-\;\land\;
-\bigl(\text{won the fight}\bigr)
-\ ;)
-}
-```
-
-
-```math
-C^{2}
-\;:\;
-\text{maybe you "lost" the war}
-\quad\Longleftrightarrow\quad
-\text{but won the fight}\ ;)
-```
+Q = Quorán(the detective.)
+t = i, ti, the premium gpu that you save for "the chance" :)
 
