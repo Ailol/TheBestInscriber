@@ -89,20 +89,48 @@ A little "attent there"
 <div align="center">
 
 ```math
+\begin{aligned}
 \mathbf{Q}
-=
-\mathrm{Quor\acute{a}n}
-\;:\;
+&=
 \text{the scoundrel detective at Louvre}
 \;(\text{heist} \leftrightarrow \text{trader})
-<br>
-\mathbf{t}
-=
-\mathbf{i}
-\;\longrightarrow\;
-\mathbf{ti}
-
+\\[8pt]
+\text{chain}
+&\xrightarrow{\;\mathbf{Q?}\ \text{Right this way}\;}
+\mathbf{Qti}
+\\[8pt]
+\mathbf{T}
+&=
+\mathbf{I}
+\qquad
+\text{until you can}
+\qquad
+\mathbf{ti'i'i'i'i'}
+\end{aligned}
 ```
+
+Or slightly more inscribed:
+
+```math
+\mathbf{Q}
+=
+\underbrace{\text{the scoundrel detective at Louvre}}_{\text{heist}\;\leftrightarrow\;\text{trader}}
+```
+
+```math
+\boxed{\text{chain}}
+\;\xrightarrow{\;\text{``Q? Right this way.''}\;}
+\mathbf{Qti}
+```
+
+```math
+\mathbf{T}=\mathbf{I}
+\;\longrightarrow\;
+\mathbf{ti'i'i'i'i'}
+```
+
+That middle one carries the joke nicely: **Q doesn’t expose the chain; Q receives it.** 🐝
+
 
 </td>
 </tr>
