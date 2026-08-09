@@ -9,7 +9,7 @@
 
 ```math
 \begin{aligned}
-E &\Longleftrightarrow Q\!\sim \\[-1pt] &\qquad \text{\small(vibe for now, til t-cartell solves it ;**)} \\[4pt]
+E &\Longleftrightarrow Q\!\sim \\[-1pt] &\qquad \text{\small("vibe", til t-cartell solves it ;**)} \\[4pt]
 M &= t \quad \text{(atomic)} \\[4pt]
 C &\overset{**}{=} i \quad \text{(**args)}
 \end{aligned}
