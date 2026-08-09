@@ -2,22 +2,17 @@
 
 ### FERMIONIC INSCRIBE
 
-**To secure your bounty after a hefty raid,**
+
+
 *I suggest this inscribes before you wander.*
 
----
-
-### `MODULUM`
-
-```math
-\mathrm{Qti}\ \equiv\ \mathrm{Qt}'🐝 ee
-```
 # Inscribing
 
 ## The blessed braces of windseekers
 
 ### The Evolutional formula
 
+Physics(feely b'eess)
 ```math
 \begin{aligned}
 E &\Longleftrightarrow Q\!\sim\ \text{("vibe")} \\[4pt]
@@ -29,6 +24,11 @@ C &\overset{**}{=} i\ \text{(**args)}
 **² — seconds; time is in you as well as outside.**
 
 *or simply:* **Squared :)**
+
+```
+```math
+\mathrm{Qti}\ \equiv\ \mathrm{Qt}'🐝 ee
+```
 
 ---
 
