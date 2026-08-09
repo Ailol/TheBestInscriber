@@ -81,22 +81,26 @@ Qti `≡` Qt'b
 
 ## 🐆 The Cheetah
 
-### The OSI Model
+### The Semantic Model
 
 #### `55 · 6`
 
 ```math
+\[
 \begin{aligned}
-&\mathrm{Fun}\;(\mathrm{charged}) \\[4pt]
-&\qquad {}^{b}e(e)\!\sim
-\;\underbrace{\updownarrow}_{\text{non-semantic}}
+\mathrm{Fun}\;(\mathrm{charged})
+& \\[4pt]
+{}^{b}e(e)\!\sim
+&\quad
+\underbrace{\updownarrow}_{\text{non-semantic}}
 \quad
 \text{a little ``we won.''}
-\\[4pt]
-&\mathrm{Charm}\;\langle\;\rangle
-\quad
+\\[6pt]
+\mathrm{Charm}\;\langle\;\rangle
+&\quad
 \text{(already semantic)}
 \end{aligned}
+\]
 ```
 
 #### `55 − 6`
@@ -109,6 +113,22 @@ Qti `≡` Qt'b
 \;\longrightarrow\;
 \mathrm{Charm}\langle\;\rangle
 }
+
+
+\[
+\begin{aligned}
+&\mathrm{Fun}\;(\mathrm{charged})
+\\[5pt]
+&{}^{b}e(e)\!\sim
+\underbrace{\updownarrow}_{\text{non-semantic}}
+\quad
+\text{a little ``we won.''}
+\\[5pt]
+&\mathrm{Charm}\;\langle\;\rangle
+\quad
+\text{(already semantic)}
+\end{aligned}
+\]
 ```
 
 > ### **Q? Right this way.** 🐝 <arrow>
