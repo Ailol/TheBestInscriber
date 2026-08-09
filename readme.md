@@ -2,7 +2,7 @@
 
 # 🐝 The Thunderfury 
 
-** _smithen by the old_ <sub>reinvgorated by the new</sub> ** 
+**_smithen by the old_ <sub>reinvgorated by the new</sub>** 
 
 ⚒️ Thor was the blacksmith, a little "charge up" of old, where he might of been a excellent understander of the human body to smith expert blades :)
 Over time, that has become a word know as "Thunder speech", the dad voice :) 
