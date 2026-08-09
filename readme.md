@@ -55,3 +55,60 @@ And I especially like the little visual chain in `E`:
 
 That feels much more like an **inscription** than explanatory prose stuffed into mathematics.
 
+---
+
+
+---
+
+<div align="center">
+
+## ⚔ The Raider's Formula
+
+<sub>WHEN THE FIELD AND THE FIGHT DISAGREE</sub>
+
+</div>
+
+```math
+\boxed{
+\mathrm{Squared}
+\;\Longrightarrow\;
+\bigl(\text{lost the war}\bigr)
+\;\land\;
+\bigl(\text{won the fight}\bigr)
+\ ;)
+}
+```
+
+<div align="center">
+
+<sub>OR, A LITTLE MORE INSCRIBED</sub>
+
+</div>
+
+```math
+C^{2}
+\;:\;
+\text{maybe you "lost" the war}
+\quad\Longleftrightarrow\quad
+\text{but won the fight}\ ;)
+```
+
+<br>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+
+<sub>THE MODULUM</sub>
+
+<br>
+
+### `≡`
+
+<br>
+
+**Qt'bee flies :)**
+
+
