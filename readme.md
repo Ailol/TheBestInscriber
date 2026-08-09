@@ -87,31 +87,25 @@ Qti `≡` Qt'b
 <div align="center">
 
 ```math
+Child-friendly OSI model
+
+55 6
+
 \begin{aligned}
-&\text{“Ain’t a well-spoken }Q\text{?”}
-\qquad {}^{b}\!{}^{b}
-\\[6pt]
-&\boxed{\text{Fun is Charged}}
-\\[6pt]
-&\mathbf{{}^{b}e(e)}
-\\[6pt]
-&\text{Charm}
-\;\equiv\;
-\langle\;\rangle
+&\mathrm{Fun}\;(\mathrm{charged}) \\[4pt]
+&\qquad {}^{b}e(e)\;\sim \\[4pt]
+&\mathrm{Charm}\;\langle\;\rangle
 \end{aligned}
 
-</div> ```
+55-6
 
-For me, fermionic and "charm particle" is that :)
-
- I choose to share for the safe travels a "snack sized" inscribe:
-
-```math
-\text{private derivation}
+\boxed{
+\mathrm{Fun}^{+}
 \;\longrightarrow\;
-\boxed{\mathrm{Qti}}
+{}^{b}e(e)\!\sim
 \;\longrightarrow\;
-\text{shareable artifact}
+\mathrm{Charm}\langle\;\rangle
+}
 ```
 
 The calculation stays.  
