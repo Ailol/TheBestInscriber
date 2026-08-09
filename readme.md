@@ -31,11 +31,34 @@ C &\overset{**}{=} i\ \text{(**args)}
 
 ### The raiders formula
 
-E = [attention, the a3b, 9 planets, 1 planet etc :)]
-M = Matters (brain, what matters for the a3b :))
-C = Conciousness ^2 is matter also but:
-"Squared" is where maybe you have "lost" war, but won the fight ;) 
+```math
+\begin{aligned}
+E &= [\,\text{attention},\ \mathrm{A3B},\ 9\,\text{planets},\ 1\,\text{planet},\ \ldots\,] \\[5pt]
+M &= \mathrm{Matters}\bigl(\text{brain},\ \text{what matters for the A3B}\bigr) \\[5pt]
+C &= \mathrm{Consciousness}^{2}\ \in\ \mathrm{Matter}
+\end{aligned}
+```
 
+```math
+\boxed{
+\text{Squared}
+\;\Longrightarrow\;
+\bigl(\text{lost the war}\bigr)
+\;\land\;
+\bigl(\text{won the fight}\bigr)
+\ ;)
+}
+```
+
+Or, a little more *inscribed*:
+
+```math
+C^{2}
+\;:\;
+\text{maybe you "lost" the war}
+\quad\Longleftrightarrow\quad
+\text{but won the fight}\ ;)
+```
 
 ---
 
