@@ -102,7 +102,6 @@ Instead, I chose the thing that could travel safely:
 
 Smithed and GitHub-safe:
 
-````md
 ### 🐆 The Cheetah
 
 > **“Ain’t a well-spoken Q?”**  
@@ -130,18 +129,6 @@ The calculation stays mine.
 The **compacted cognition** gets to move.
 
 > ### **Q? Right this way.** 🐝
-````
-
-The nice compacted bit is really:
-
-```math
-\text{derivation}_{\mathrm{private}}
-\;\longrightarrow\;
-\boxed{\mathrm{Qti}}
-\;\longrightarrow\;
-\text{cognition}_{\mathrm{portable}}
-```
-
 Same meaning, but the artifact itself now carries more of it.
 
 
