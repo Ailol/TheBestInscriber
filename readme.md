@@ -113,4 +113,8 @@ Qti `≡` Qt'b
 
 > ### **Q? Right this way.** 🐝 <arrow>
 
-<img width="863" height="698" alt="The tickle is always inviting, thats the dark  the scale is your age" src="https://github.com/user-attachments/assets/78752c4c-3e6c-45c8-a490-fdc097330850" />
+<img width="40" height="198" alt="The tickle is always inviting, thats the dark  the scale is your age" src="https://github.com/user-attachments/assets/064982df-ed2f-4840-970e-14e208772516" />
+
+
+
+<img width="270" height="298" alt="The p3&#39;s, the ones that monitor and creat spikspoks _)" src="https://github.com/user-attachments/assets/1c19816c-0ca7-48c0-aa07-f761d77dfeae" />
