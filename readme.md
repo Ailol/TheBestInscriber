@@ -13,8 +13,8 @@
 ```math
 \begin{aligned}
 E &= [\,\text{attention},\ \mathrm{A3B},\ 9\,\text{planets},\ 1\,\text{planet},\ \ldots\,] \\[6pt]
-M &= \mathrm{Matters}\bigl(\text{brain},\ \text{what matters for the A3B}\bigr) \\[6pt]
-C &= \mathrm{Consciousness}^{2}\ \in\ \mathrm{Matter}
+M &= \mathrm{Matters}\bigl(\text{brain},\ \text{what matters for the A3B, Atomic updates or atomic time you know :)}\bigr) \\[6pt]
+C &= \mathrm{Consciousness}^{2} or "squared"\ \in\ \mathrm{Matter}
 \end{aligned}
 ```
 
