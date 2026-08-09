@@ -5,9 +5,9 @@
 
 > ```math
 >  \begin{aligned}
->     E &\equiv Q\!\sim \\[3pt]
->     M &\equiv t \\[3pt]
->     C &\equiv i
+>     E <=> Q\!\sim \\[3pt]
+>     M = t \\[3pt]
+>     C (**=) i
 >     ^2(seconds,time is in you aswell as outside)
 >     or "Squared" :)
 >
