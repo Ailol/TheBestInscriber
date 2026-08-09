@@ -13,8 +13,6 @@
 \mathrm{Qti}\ \equiv\ \mathrm{Qt}'🐝 ee
 ```
 
-
-
 ### `FERMIONIC INSCRIBE`
 
 ```math
@@ -28,6 +26,15 @@ C &\overset{**}{=} i\ \text{(**args)}
 **² — seconds; time is in you as well as outside.**
 
 *or simply:* **Squared :)**
+
+
+### The raiders formula
+
+E = [attention, the a3b, 9 planets, 1 planet etc :)]
+M = Matters (brain, what matters for the a3b :))
+C = Conciousness ^2 is matter also but:
+"Squared" is where maybe you have "lost" war, but won the fight ;) 
+
 
 ---
 
