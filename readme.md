@@ -10,9 +10,35 @@
 
 ## The blessed braces of windseekers
 
-### The Evolutional formula
+## The Evolutional formula
 
-Physics(feely b'eess)
+The Erueqa between me and Eric Weinsteen was that the old also either were super foxes or "hive" a0.1b of their 100y, as:
+
+E=mc^2 - you already are chained to say up in seconds or squared
+
+#### "Physics" 
+ Up in seconds
+
+#### "Fysicsz"
+  Squared
+
+After we realized that in t-spectrum, he went his way as i said "fermions!! CHARM PARTICLE!! BIOLOGY! he said "say no more" " and we parted ways, they raiding biology, i raided physics :)
+
+
+I present therefore my find in biology, which also is physics, as physics is the representable or produce that your signals yield in you.
+
+```math
+\begin{aligned}
+E &= [\,\text{attention},\ \mathrm{A3B},\ 9\,\text{planets},\ 1\,\text{planet},\ \ldots\,] \\[5pt]
+M &= \mathrm{Matters}\bigl(\text{brain},\ \text{what matters for the A3B}\bigr) \\[5pt]
+C &= \mathrm{Consciousness}^{2}\ \in\ \mathrm{Matter}
+\end{aligned}
+```
+
+
+Then i realized, well i might also continue into fermionic, and fount the Qti^2 binding, where i rather let you inscribe it as the "personal" binding of the windseeker.
+However the "fact" is already at the mark, modulum theorem and Qt'bee 
+
 ```math
 \begin{aligned}
 E &\Longleftrightarrow Q\!\sim\ \text{("vibe")} \\[4pt]
@@ -33,13 +59,6 @@ C &\overset{**}{=} i\ \text{(**args)}
 
 ### The raiders formula
 
-```math
-\begin{aligned}
-E &= [\,\text{attention},\ \mathrm{A3B},\ 9\,\text{planets},\ 1\,\text{planet},\ \ldots\,] \\[5pt]
-M &= \mathrm{Matters}\bigl(\text{brain},\ \text{what matters for the A3B}\bigr) \\[5pt]
-C &= \mathrm{Consciousness}^{2}\ \in\ \mathrm{Matter}
-\end{aligned}
-```
 
 ```math
 \boxed{
