@@ -1,8 +1,11 @@
 <div align="center">
 
-# 🐝 The Modulum
+# 🐝 The Thunderfury smithen by the old
 
-<sub>FERMIONIC INSCRIBE</sub>
+⚒️ Thor was the blacksmith, a little "charge up" of old, where he might of been a excellent understander of the human body to smith expert blades :)
+Over time, that has become a word know as "Thunder speech", the dad voice :) 
+
+<sub>Smithing the braces of Time and Ingrainment </sub>
 
 <br>
 
