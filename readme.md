@@ -73,7 +73,7 @@ _This one is left for you to ingrain yourself, modulum i havent solved semantica
 Qti `≡` Qt'b
 <div align="center">
     
-### ` Qti 🔜 Qt'e? Qt˚🐝˖° `
+### ` Qti 🔜 Qt'e?              Qt˚🐝˖° `
     
 </div>
 <div align="center">
