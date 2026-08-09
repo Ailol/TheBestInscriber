@@ -17,6 +17,7 @@ C \overset{**}{=} i\ \text{(**args)}
 
 
 
+
 <p>
 <strong>² — seconds; time is in you as well as outside.</strong><br>
 or simply: <strong>“Squared” :)</strong>
