@@ -89,8 +89,8 @@ A little "attent there"
 
 ### 🐆 The Cheetah
 
-> **“Ain’t a well-spoken Q?”**  
-> Well — that only comes when you dare to **be(e)** ← *the pocket is yours to stand in, and that pocket then can slowly or quickly just shift your whole world of spectrums*
+> **“Ain’t a well-spoken Q? ᵇ ᵇ ”**  
+> Well — that only comes when you dare to **ᵇe(e)** ← *the pocket is yours to stand in, and that pocket then can slowly or quickly just shift your whole world of spectrums*
 
 For me, fermionic and "charm particle" is that :)
 
