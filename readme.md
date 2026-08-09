@@ -113,4 +113,4 @@ Qti `≡` Qt'b
 
 > ### **Q? Right this way.** 🐝 <arrow>
 
-spelling then spell it backwards
+<img width="863" height="698" alt="The tickle is always inviting, thats the dark  the scale is your age" src="https://github.com/user-attachments/assets/78752c4c-3e6c-45c8-a490-fdc097330850" />
