@@ -84,7 +84,7 @@ Qti `≡` Qt'b
 ### The Semantic Model
 
 #### `55  6`
-```math
+```code
     🐆 Fun(- ˚' Nami Nami ` .)  🐆
   🐆    Qt       ~~Bb b  ~~  🐝             🐆    *phew* Qt'🐝still i.
     🐆"cats(the peaks)" <charm> 🐆
@@ -92,7 +92,7 @@ Qti `≡` Qt'b
 
 #### `55 − 6`
 
-```math
+```code
 123, i see thee
  ~~Bb b  ~~  🐝  
 <now can i try?>
