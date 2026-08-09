@@ -64,7 +64,7 @@ That feels much more like an **inscription** than explanatory prose stuffed into
 
 <div align="center">
 
-## ` ⚔ The Ingrainment Inscribe `
+## ` 𝄜 The Ingrainment Inscribe `
 
 </div>
 
