@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🐝 The Thunderfury smithen by the old
+# 🐝 The Thunderfury smithen by the old <sub>smithen by the old</sub>
 
 ⚒️ Thor was the blacksmith, a little "charge up" of old, where he might of been a excellent understander of the human body to smith expert blades :)
 Over time, that has become a word know as "Thunder speech", the dad voice :) 
@@ -9,7 +9,7 @@ Over time, that has become a word know as "Thunder speech", the dad voice :)
 
 <br>
 
-### ` Smithing the braces of Time and Ingrainment `
+### ` Smithing the braces of Time and Ingrainment ` 
 
 <div align="center">
 
