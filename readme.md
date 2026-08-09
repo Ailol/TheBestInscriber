@@ -1,6 +1,23 @@
 
 ### The modulum
 
+
+
+> ```math
+>  \begin{aligned}
+>     E &\equiv Q\!\sim \\[3pt]
+>     M &\equiv t \\[3pt]
+>     C &\equiv i
+>     ^2(seconds,time is in you aswell as outside)
+>     or "Squared" :)
+>
+>    Thank you eric weinstein and JRE Crew and elon for the help in 2021 with dr.rhonda and hollybees as well as david and jordan peterson and even botched crew joining in :)
+> \end{aligned}
+> ```
+>
+
+
+
 To secure your bounty after a hefty raid, i suggest this inscribes before you wander 
 
 > &\equiv
@@ -24,13 +41,6 @@ To secure your bounty after a hefty raid, I suggest this inscribes before you wa
 
 ### Fermionic Inscribe
 
-```math
-\begin{aligned}
-E &\equiv Q\!\sim \\[3pt]
-M &\equiv t \\[3pt]
-C &\equiv i
-\end{aligned}
-```
 
 <div align="center">
 
