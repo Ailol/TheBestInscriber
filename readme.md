@@ -25,17 +25,9 @@ C &\overset{**}{=} i\ \text{(**args)}
 \end{aligned}
 ```
 
-```math
-\equiv
-```
-
 **² — seconds; time is in you as well as outside.**
 
 *or simply:* **Squared :)**
-
-`#333`　`#b33`　`#fff`　`#36c`　`#ae3`
-
-🐝
 
 ---
 
